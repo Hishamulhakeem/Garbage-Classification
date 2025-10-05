@@ -30,11 +30,4 @@ By classifying waste into predefined categories (e.g., **plastic, paper, metal, 
 The notebook displays performance metrics and sample predictions, highlighting how well the model distinguishes between different garbage categories.
 
 ## 📂 Dataset
-The project uses a labeled dataset of garbage images, typically grouped into recyclable and non-recyclable categories. (You can replace the dataset path in the notebook with your own.)
-
-## 🧾 License
-This project is open-source and available for educational purposes.
-
----
-
-Would you like me to make this **shorter and simpler (student-style)** or keep it **professional and GitHub-ready** like this version?
+The project uses a labeled dataset of garbage images.
